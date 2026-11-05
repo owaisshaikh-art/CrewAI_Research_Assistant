@@ -1,2 +1,3 @@
+python-dotenv
 & 'C:\GENA_ICOE\.venv312\Scripts\python.exe' -m streamlit run 'C:\GENA_ICOE\CrewAI_Research_Assistant\main.py'
 & 'C:\GENA_ICOE\.venv312\Scripts\python.exe' -m pip install crewai==1.15.35 streamlit==1.66.1 python-dotenv==1.2.4 requests==2.34.2 groq==1.7.0
