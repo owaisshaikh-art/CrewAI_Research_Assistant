@@ -1,0 +1,55 @@
+
+PAPER 1
+============================================================
+Title: Securing AI/ML systems
+Authors: Kapila Monga
+Year: 2025
+DOI: https://doi.org/10.1201/9781003454663-5
+Venue: AI/ML for Healthcare
+Source: https://doi.org/10.1201/9781003454663-5
+Abstract: Abstract not available.
+
+
+PAPER 2
+============================================================
+Title: Healthcare AI/ML essentials
+Authors: Kapila Monga
+Year: 2025
+DOI: https://doi.org/10.1201/9781003454663-1
+Venue: AI/ML for Healthcare
+Source: https://doi.org/10.1201/9781003454663-1
+Abstract: Abstract not available.
+
+
+PAPER 3
+============================================================
+Title: Split AI/ML operation between AI/ML endpoints
+Authors: Adela R
+Year: 2024
+DOI: https://doi.org/10.2139/ssrn.4727026
+Venue: Venue unavailable
+Source: https://doi.org/10.2139/ssrn.4727026
+Abstract: Split AI/ML operation between AI/ML endpoints – some examples of use cases discussed in 3rd Generation Partnership Project -(Release 18)-12-2021
+
+
+PAPER 4
+============================================================
+Title: Navigate healthcare AI/ML responsibly
+Authors: Kapila Monga
+Year: 2025
+DOI: https://doi.org/10.1201/9781003454663-4
+Venue: AI/ML for Healthcare
+Source: https://doi.org/10.1201/9781003454663-4
+Abstract: Abstract not available.
+
+
+PAPER 5
+============================================================
+Title: Routing with AI/ML
+Authors: Mehmet Toy
+Year: 2026
+DOI: https://doi.org/10.1007/978-3-032-21830-8_11
+Venue: AI/ML For Networks, Services, and Management
+Source: https://doi.org/10.1007/978-3-032-21830-8_11
+Abstract: Abstract not available.
+
